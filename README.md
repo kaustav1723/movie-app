@@ -1,6 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Discover a world of captivating stories and cinematic wonders at our movie website. Immerse yourself in thrilling adventures, heartwarming romances, and mind-bending mysteries. From blockbusters to hidden gems, we've got it all. Unleash your imagination and let the magic of movies transport you to unforgettable journeys, one click away."
+
+
+
+
+
 
 Currently, two official plugins are available:
 
